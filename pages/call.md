@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Papers
+title: Call for Abstracts
 permalink: /call/
 ---
 
@@ -21,7 +21,7 @@ The authors of accepted abstracts will be invited to present lightning talks or 
 
 We particularly encourage submissions from first-time conference presenters, and from members of groups that have historically been underrepresented in the HPC community.
 
-Abstracts should be submitted to the submission website <https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopRSEHPCSubmission&site=sc26>. The deadline for submissions is Friday, August 7, 2026, at 11:59 PM AoE (UTC-12).
+Abstracts should be submitted to the submission website <br><https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopRSEHPCSubmission&site=sc26><br> The deadline for submissions is Friday, August 7, 2026, at 11:59 PM AoE (UTC-12).
 
 ### Timeline
 
