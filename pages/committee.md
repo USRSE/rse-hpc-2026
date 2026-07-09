@@ -13,5 +13,14 @@ permalink: /committee/
 
 ## Program Committee
 
-* More information coming soon! *
+- David Bernholdt, Oak Ridge National Laboratory, USA
+- Jeffrey Carver, University of Alabama, USA
+- Niels Drost, Keygene N.V., Netherlands
+- Rinku Gupta, Argonne National Laboratory, USA
+- Robert Haines, University of Manchester, UK
+- Helen Kershaw, National Center for Atmospheric Research, USA
+- Lauren Milechin, Massachusetts Institute of Technology, USA
+- Drew Paine, Lawrence Berkeley National Laboratory, USA
+- Uwe Schmitt, ETH Zurich, Switzerland
+- Menno van Zaanen, South African Centre for Digital Language Resources, South Africa
 
