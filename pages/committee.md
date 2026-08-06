@@ -18,9 +18,11 @@ permalink: /committee/
 - Niels Drost, Keygene N.V., Netherlands
 - Rinku Gupta, Argonne National Laboratory, USA
 - Robert Haines, University of Manchester, UK
+- Nick Jones, University of Auckland, NZ
 - Helen Kershaw, National Center for Atmospheric Research, USA
 - Lauren Milechin, Massachusetts Institute of Technology, USA
 - Drew Paine, Lawrence Berkeley National Laboratory, USA
 - Uwe Schmitt, ETH Zurich, Switzerland
+- Max Shad, Harvard University, USA
 - Menno van Zaanen, South African Centre for Digital Language Resources, South Africa
 
