@@ -14,7 +14,7 @@ Agenda:
 - 9:00 am - Session 1
     - 5 minutes: Introduction and overview of day
     - 40 minutes: Invited talk + Q&A
-        - Speaker:  TBA
+        - Speaker:  Ian Cosden, Director of Research Software Engineering, Princeton University
     - 15 minutes: Lightning talks 1
         - Embedding ‘Green Skills’ in our Day-to-day Work -- Weronika Filinger, Edinburgh Parallel Computing Centre
         - Supporting HPC Research Software Engineers Across the UK: The HPC RSE SIG -- Tuomas Koskela, University College London (UCL)
