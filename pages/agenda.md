@@ -21,7 +21,7 @@ Agenda:
 - 10:00 am - Break
 - 10:30 am - Session 2
     - 55 minutes: Lightning talks 2
-        - Research Software Threat Modeling: Findings from a Community Workshop -- George Thiruvathukal, Loyola University Chicago
+        - Research Software Threat Modeling: Findings from a Community Workshop -- George K. Thiruvathukal, Loyola University Chicago
         - Research Software Engineering for Accountable Health AI -- Samson Cournane, Johns Hopkins University
         - Checkpoint-Restart Workflows with Large-Scale Community Compute Testbeds for Research Software Development Pipelines -- Venkat Sai Suman Lamba Karanam, Bowling Green State University
         - From Hurricanes to Highways: RSEs as Carriers of Method Between Sciences -- Mohsen Zand, University of Chicago
