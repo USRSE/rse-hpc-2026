@@ -6,7 +6,7 @@ permalink: /agenda/
 
 *All times are Central Standard Time (UTC-6).*
 
-In-person location:  McCormick Place, room W181c
+In-person location:  McCormick Place, room W175bc
 
 Monday, November 16, 2026
 
