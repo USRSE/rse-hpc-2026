@@ -22,7 +22,7 @@ Agenda:
     - 15 minutes: Lightning talks 1
         - [Embedding ‘Green Skills’ in our Day-to-day Work](https://drive.google.com/file/d/1_cOvQzm9S6mit94qVmvW74b60-xwKIvr/view?usp=drive_link) -- Weronika Filinger, Edinburgh Parallel Computing Centre
         - [Supporting HPC Research Software Engineers Across the UK: The HPC RSE
-SIG]() -- Tuomas Koskela, University College London (UCL)
+SIG](https://tkoskela.github.io/talks/2026-sc-hpc-rse-workshop/) -- Tuomas Koskela, University College London (UCL)
 - 10:00 am - Break
 - 10:30 am - Session 2
     - 55 minutes: Lightning talks 2
